@@ -1,15 +1,15 @@
-(Sysnthesized from Act Up's [Consensus Decision
+(Synthesized from Act Up's [Consensus Decision
 Making](http://www.actupny.org/documents/CDdocuments/Consensus.html) and
 Consensus Decision-Making's [The Basics of Consensus
 Decision-Making](http://consensusdecisionmaking.org/Articles/Basics%20of%20Consensus%20Decision%20Making.html))
 
 #Consensus Decision Making
 
-##What is Consensus?
+##What Is Consensus?
 
 Consensus is a process for group decision-making. It is a method by which an entire group of people can come to an agreement. The input and ideas of all participants are gathered and synthesized to arrive at a final decision acceptable to all. Through consensus, we are not only working to achieve better solutions, but also to promote the growth of community and trust.
 
-##The Principles of Consensus Decision Making
+##The Principles Of Consensus Decision Making
 Consensus appears as a process in many different forms, however there are many common elements that are definitive of consensus decision making. These include being:
 
 * Inclusive: As many stakeholders as possible are involved in group discussions.
@@ -42,7 +42,7 @@ Consensus takes more time and member skill, but uses lots of resources before a 
 ##Forming The Consensus Proposals
 
 ![consensus flowchart](Consensus-flowchart.png)
-[Image from Wikipedia.](https://en.wikipedia.org/wiki/File:Consensus-flowchart.png)
+[Image from Wikipedia](https://en.wikipedia.org/wiki/File:Consensus-flowchart.png)
 
 
 During discussion a proposal for resolution is put forward. It is amended and modified through more discussion, or withdrawn if it seems to be a dead end. During this discussion period it is important to articulate differences clearly. It is the responsibility of those who are having trouble with a proposal to put forth alternative suggestions.
