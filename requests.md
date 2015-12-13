@@ -12,6 +12,14 @@ In order to prioritize things appropriately, especially for requests, we need in
 
 ##Examples
 
+###Problem
+
 The email being sent to people who sign up for our mailing list recently broke – the header image is no longer showing up. It was working last week. Attached is a screenshot of the broken email, along with the image that's supposed to be showing up. Could someone please fix this asap?
 
-For the upcoming action next month, we would like to have a counter on the site that shows how many people have RSVP'd to the Facebook event. It would look something like [this clock timer](http://flipclockjs.com/). This would be a way to show how popular our actions are to website visitors and how actively involved DxE members are. Depending on the actual number of people that RSVP, we probably won't show it if there are less than 100 people… However, it'd be nice to have in general, since we could reuse it for events in the future! The action is in three weeks, so if someone could have this done in two weeks, that'd be awesome.
+###Request
+
+For the upcoming action next month, we would like to have a page on the site where people can upload a picture of themselves participating and, after I approve the image, it'll be a part of a slideshow on that page. Maybe the slideshow could also pop out into a lightbox? I'm picturing a black background, with the image taking up the entire browser window, and left/right arrows to click through all of the images.
+
+This will help generate excitement for the action because activists will be able to see pictures of other people participating, which will hopefully encourage them to do it as well. It's also a way to prove broad international engagement; we can point to the page as evidence of our reach. We're telling all of our regional organizers to strongly suggest that their members take part, so this is pretty core to the action and very likely to be used.
+
+The action is three weeks from now on Friday, so if someone is able to create a mostly done version in 2.5 weeks, that would give us enough time to finalize the rest of the page.
