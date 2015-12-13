@@ -6,9 +6,9 @@ To ensure that DxE Tech is able to swiftly help you with your tech request, we n
   * For tech problems, please include any error messages and screenshots of the issue(s), how long the problem has been happening or when it was discovered, and whom the issue impacts
   * For tech requests, please include whom the request will impact, how it affects DxE, why it would be nice to have, and how likely it will be used
 * How urgent it is
-  * Is there a hard deadline? Is something else depending on it?
+  * Is there a hard deadline? Does something else depend on it?
 
-In order to prioritize things appropriately, especially for requests, we need insight into the context behind it. Since we're a volunteer team, we want to dedicate our time to things that will help DxE and its members the most.
+In order to prioritize things appropriately, especially for requests, we need insight into the context behind it. Since we're a volunteer team, we want to dedicate our time to things that will help DxE and its members the most. Requests with the most impact and likelihood to be used will be prioritized.
 
 ##Examples
 
