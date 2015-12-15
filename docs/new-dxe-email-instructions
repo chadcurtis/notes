@@ -5,7 +5,8 @@ You need admin permissions to create a DxE google user with an @directactionever
 1. Go to admin.google.com/directactioneverywhere.com
 2. Click on 'users'
 3. Click on the plus button in the bottom right ("Add User") and add a user. Create them with a temporary password (they'll be prompted to change it after logging in).
-4. Send the following email to their normal gmail:
+4. Send the email below to their normal gmail.
+5. After they've set it up, test it by sending an email to their @directactioneverywhere.com email.
 
 ----
 Hey X,
