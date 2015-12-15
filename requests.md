@@ -3,8 +3,8 @@
 To ensure that DxE Tech is able to swiftly help you with your tech request, we need the following information:
 
 * Summary of the problem or request
-  * For tech problems, please include any error messages and screenshots of the issue(s), how long the problem has been happening or when it was discovered, and whom the issue impacts
-  * For tech requests, please include whom the request will impact, how it affects DxE, why it would be nice to have, and how likely it will be used
+  * For **tech problems**, please include any error messages and screenshots of the issue(s), how long the problem has been happening or when it was discovered, and whom the issue impacts
+  * For **tech requests**, please include whom the request will impact, how it affects DxE, why it would be nice to have, and how likely it will be used
 * How urgent it is
   * Is there a hard deadline? Does something else depend on it?
 
@@ -12,11 +12,11 @@ In order to prioritize things appropriately, especially for requests, we need in
 
 ##Examples
 
-###Problem
+###Tech Problem
 
 The email being sent to people who sign up for our mailing list recently broke – the header image is no longer showing up. It was working last week. Attached is a screenshot of the broken email, along with the image that's supposed to be showing up. Could someone please fix this asap?
 
-###Request
+###Tech Request
 
 For the upcoming action next month, we would like to have a page on the site where people can upload a picture of themselves participating and, after I approve the image, it'll be a part of a slideshow on that page. Maybe the slideshow could also pop out into a lightbox? I'm picturing a black background, with the image taking up the entire browser window, and left/right arrows to click through all of the images.
 
