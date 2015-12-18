@@ -1,5 +1,6 @@
 # DxE Tech Members
 
+ * Darienne DeWalt
  * Ling-Yi Kung
  * Lisa Zorn
  * Mark Dyhr
