@@ -147,7 +147,8 @@ getting them to commit to taking the lead on getting that work done.
 The point of contact should respond to initial inquiries that have gone
 **twenty-four hours** without a response. Anyone in the Tech Working Group may
 respond to an inquiry, and in that case the point of contact is not obligated to
-respond.
+respond.  Items that the point of contact feels are not completely addressed should
+be added to the weekly meeting agenda.
 
 This person is not a leader, just the default point of contact between the tech
 working group and the outside world. This person is chosen by the tech working
