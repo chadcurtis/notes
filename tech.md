@@ -89,7 +89,9 @@ the group.
 
 After the reading and the meeting requirements are fulfilled, the current
 members have a short meeting using consensus to decide if the member should
-be let in.
+be let in. During the meeting before consensus is used to decide if the 
+person should become a member of the group, the decision should be anounced 
+so that if anyone has an objection, it can be raised before the next meeting.
 
 ###Leaving
 
