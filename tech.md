@@ -32,7 +32,7 @@ tools that help DxE activists be more effective.
 ##Values
 
 As a group within DxE, we agree with and follow DxE's
-[values](http://directactioneverywhere.com/values), [conflict resolution
+[values](http://directactioneverywhere.com/organizing-principles), [conflict resolution
 process](https://docs.google.com/document/d/1sZ66qBEYRcBzZV26qctn_mHoDn4cznRYI4vlFjBiHEE/edit),
  and [security culture guidelines](https://docs.google.com/document/d/1yn5xIdYpl-ONtzjiKNrAFo7g2023OH72Q9ztUl7rfQY/edit).
 In addition, we abide by DxE SF Bay's Code of Conduct and have our own guiding
