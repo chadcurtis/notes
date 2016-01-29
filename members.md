@@ -4,7 +4,7 @@
  * Ling-Yi Kung
  * Lisa Zorn
  * Mark Dyhr
- * Mike Perrone - Point of Contact (11/05/15)
+ * Mike Perrone
  * Mitch Karns
  * Samer Masterson
 
