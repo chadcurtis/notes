@@ -7,6 +7,7 @@
  * Mike Perrone
  * Mitch Karns
  * Samer Masterson
+ * Matt Jefferson
 
 # Point of Contact starting dates
 
