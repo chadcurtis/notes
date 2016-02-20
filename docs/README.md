@@ -8,4 +8,4 @@
  - [Git Tutorial](http://rogerdudler.github.io/git-guide/)
  - [GitHub Pull Request Flow](https://guides.github.com/introduction/flow/)
  - [Installing Ubuntu inside Windows using VirtualBox](http://www.psychocats.net/ubuntu/virtualbox)
- - [New DxE Tech Interested Person](https://github.com/directactioneverywhere/notes/blob/master/docs/new-dxe-tech-interested-person.md)
+ - [DxE Tech Onboarding](https://github.com/directactioneverywhere/notes/blob/master/docs/new-dxe-tech-interested-person.md)
