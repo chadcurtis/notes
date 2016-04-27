@@ -87,25 +87,23 @@ They must also sit in on two meetings to observe and introduce themselves to
 the group.
 
 
-After the reading and the meeting requirements are fulfilled, the current
-members have a short meeting using consensus to decide if the member should
-be let in. During the meeting before consensus is used to decide if the 
-person should become a member of the group, the decision should be anounced 
-so that if anyone has an objection, it can be raised before the next meeting.
+After the eligibility requirements are fulfilled, current DxE Tech members hold
+a brief meeting using consensus to decide if a candidate should be granted
+membership. During the meeting prior to this, the intention should be announced,
+allowing for any objections to be raised.
 
 ###Leaving
 
-A member missing six consecutive meetings or violating any of our values
-is grounds for being removed from the DxE Tech Working Group. Any member
-that is removed from or leaves the DxE Tech Working Group must go through
-the full process for joining again.
+If a member misses six consecutive meetings or violates DxE Tech's values, it is
+grounds for that person's membership to be revoked. Returning individuals must
+follow the standard procedure if they wish to become members again.
 
 
 ##Decision Making Procedure
 
-DxE Tech uses consensus with explicit voting to make all decisions. A consensus
-is loosely defined as when every member consents to the decision being made.
-Read more about the process of consensus [here](https://github.com/directactioneverywhere/notes/blob/master/consensus.md).
+DxE Tech uses consensus with explicit voting to make all decisions. Consensus
+occurs when all members consent to enacting a proposed decision. Read more about
+the process of consensus [here](https://github.com/directactioneverywhere/notes/blob/master/consensus.md).
 
 To make sure that everyone has the opportunity to work on the group’s projects,
 the group can use consensus to appoint an individual or a subcommittee to be
@@ -131,8 +129,7 @@ We don't believe that we need some members of the group (official leaders) to
 have more power than others. However, some members may take on specific
 responsibilities on behalf of the group. Having specific individuals play
 specific roles is risky because it segments and concentrates power away
-from the group. Despite this, we have one role -- the point of contact --
-and to mitigate that risk we define it as follows.
+from the group. Despite this, we have one role—the point of contact—and to mitigate that risk we define it as follows.
 
 ###Point of Contact
 
@@ -211,4 +208,3 @@ agenda. There are more details on how to run a meeting
 
 This document is a living document; it can be modified to fit the group's needs.
 All modifications must be approved by the group and must conform to [the values](#values).
-
