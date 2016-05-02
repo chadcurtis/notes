@@ -1,5 +1,6 @@
 # DxE Tech Members
 
+ * Alex Gleason
  * Darienne DeWalt
  * Ling-Yi Kung
  * Lisa Zorn
