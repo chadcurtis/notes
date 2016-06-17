@@ -7,7 +7,6 @@
  * Mark Dyhr
  * Matt Jefferson
  * Mike Perrone
- * Mitch Karns
  * Samer Masterson
 
 
