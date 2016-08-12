@@ -2,11 +2,9 @@
 
  * Alex Gleason
  * Darienne DeWalt
- * Ling-Yi Kung
  * Lisa Zorn
  * Mark Dyhr
  * Matt Jefferson
- * Mike Perrone
  * Samer Masterson
 
 
