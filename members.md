@@ -11,6 +11,6 @@
 
 The point person rotates every Thursday.
 
- * Samer
  * Lisa
  * Mark
+ * Samer
