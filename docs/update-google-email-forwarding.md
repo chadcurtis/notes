@@ -1,0 +1,1 @@
+Some email accounts have forwarding rules on them that aren't accessible from the account itself. The rule may be in the Google Admin interface. Go to the Google Admin page > Apps > G Suite > Gmail > Default routing to see all the routing rules.
